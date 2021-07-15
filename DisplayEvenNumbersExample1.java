@@ -2,7 +2,7 @@ public class DisplayEvenNumbersExample1
 {  
 public static void main(String args[])   
 {  
-int number=1000;  
+int number=350;  
 System.out.print("List of even numbers from 1 to "+number+": ");  
 for (int i=1; i<=number; i++)   
 {  
